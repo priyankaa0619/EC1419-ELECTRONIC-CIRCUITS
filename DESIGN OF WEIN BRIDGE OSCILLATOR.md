@@ -13,13 +13,14 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
+## Clculation
+![WhatsApp Image 2025-11-23 at 11 54 25_26c6a7ba](https://github.com/user-attachments/assets/b0fe3337-c4a6-465f-9886-98b68e3bdc60)
+
 
 ## Graph
 
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
-
-Practical frequency of Oscillation =
+![WhatsApp Image 2025-11-23 at 11 55 47_576184b8](https://github.com/user-attachments/assets/88616297-e1a0-4131-afa7-64a224dd5495)
 
 
-Theoritical Frequency of Oscillation =
+## Result 
+![WhatsApp Image 2025-11-23 at 11 56 40_dc5bf15c](https://github.com/user-attachments/assets/461a35e7-cf5a-429c-8fc3-cfbfde977df9)
