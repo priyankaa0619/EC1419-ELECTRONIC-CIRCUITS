@@ -14,8 +14,9 @@
 
 ## Semilog Graph
 
-![WhatsApp Image 2025-11-23 at 11 42 07_7498583a](https://github.com/user-attachments/assets/87d5f18c-051c-4d87-86e2-ba4335a41ac4)
+![WhatsApp Image 2025-11-23 at 11 47 39_47bae45c](https://github.com/user-attachments/assets/76f4044c-798b-44f0-a083-c3dfd7daad77)
+
 
 ## Result
-![WhatsApp Image 2025-11-23 at 11 42 30_435fb4e6](https://github.com/user-attachments/assets/bfdda2d0-ab9b-483f-9ce3-6ac85e7f3a97)
+![WhatsApp Image 2025-11-23 at 11 47 01_648a4375](https://github.com/user-attachments/assets/fde48c36-2cf3-4398-926c-eb1cd9e29e0f)
 
