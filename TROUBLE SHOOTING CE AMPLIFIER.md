@@ -3,11 +3,19 @@
 <img width="876" height="742" alt="image" src="https://github.com/user-attachments/assets/0eddc772-f12e-43cb-a69c-ad8a2e1bf096" />
 <img width="693" height="277" alt="image" src="https://github.com/user-attachments/assets/3d74a48a-cfa9-4abf-988c-94f1da5d1062" />
 <img width="862" height="776" alt="image" src="https://github.com/user-attachments/assets/e84201fb-e35d-49d4-9f21-e5fe9856d519" />
-<img width="885" height="633" alt="image" src="https://github.com/user-attachments/assets/1eb504bf-ffbd-45a7-8ede-d0593601d20a" />
 
 
 ## Tabulations 
 
+![WhatsApp Image 2025-11-23 at 11 41 37_3363dfc0](https://github.com/user-attachments/assets/1eb709ee-5ef8-441e-a2cc-b0e230ebd77b)
+
+#Calculation
+![WhatsApp Image 2025-11-23 at 11 41 46_5c97ef28](https://github.com/user-attachments/assets/05cea7ba-03a0-4abd-a458-158dea954212)
+
 ## Semilog Graph
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+![WhatsApp Image 2025-11-23 at 11 42 07_7498583a](https://github.com/user-attachments/assets/87d5f18c-051c-4d87-86e2-ba4335a41ac4)
+
+#Result
+![WhatsApp Image 2025-11-23 at 11 42 30_435fb4e6](https://github.com/user-attachments/assets/bfdda2d0-ab9b-483f-9ce3-6ac85e7f3a97)
+
