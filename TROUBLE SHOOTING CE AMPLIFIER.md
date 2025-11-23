@@ -9,13 +9,13 @@
 
 ![WhatsApp Image 2025-11-23 at 11 41 37_3363dfc0](https://github.com/user-attachments/assets/1eb709ee-5ef8-441e-a2cc-b0e230ebd77b)
 
-#Calculation
+## Calculation
 ![WhatsApp Image 2025-11-23 at 11 41 46_5c97ef28](https://github.com/user-attachments/assets/05cea7ba-03a0-4abd-a458-158dea954212)
 
 ## Semilog Graph
 
 ![WhatsApp Image 2025-11-23 at 11 42 07_7498583a](https://github.com/user-attachments/assets/87d5f18c-051c-4d87-86e2-ba4335a41ac4)
 
-#Result
+## Result
 ![WhatsApp Image 2025-11-23 at 11 42 30_435fb4e6](https://github.com/user-attachments/assets/bfdda2d0-ab9b-483f-9ce3-6ac85e7f3a97)
 
